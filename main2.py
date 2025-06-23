@@ -1,0 +1,1 @@
+print('all commits gets pushed at once?')
