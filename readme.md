@@ -1,4 +1,6 @@
-## HOLAAA MI AMIGOOOO !
+## WELCOME TO GIT !
 
 - Here we will learn all the basics so let's go
-- Bule bule bule bule 
+- - Here we will learn all the basics so let's go0000000
+- Bule bule bule bule
+- I did the spanish feature 
